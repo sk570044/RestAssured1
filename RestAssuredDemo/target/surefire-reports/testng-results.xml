@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Command line suite" duration-ms="7929" started-at="2021-03-03T00:15:38 IST" finished-at="2021-03-03T00:15:46 IST">
+    <groups>
+    </groups>
+    <test name="Command line test" duration-ms="7929" started-at="2021-03-03T00:15:38 IST" finished-at="2021-03-03T00:15:46 IST">
+      <class name="RestAssured.Test01_GET">
+        <test-method status="PASS" signature="Test01()[pri:0, instance:RestAssured.Test01_GET@553f17c]" name="Test01" duration-ms="5730" started-at="2021-03-03T00:15:38 IST" finished-at="2021-03-03T00:15:43 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test01 -->
+        <test-method status="PASS" signature="test()[pri:0, instance:RestAssured.Test01_GET@553f17c]" name="test" duration-ms="2121" started-at="2021-03-03T00:15:43 IST" finished-at="2021-03-03T00:15:46 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+      </class> <!-- RestAssured.Test01_GET -->
+    </test> <!-- Command line test -->
+  </suite> <!-- Command line suite -->
+</testng-results>
